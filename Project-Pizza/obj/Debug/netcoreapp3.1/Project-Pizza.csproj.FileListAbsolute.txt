@@ -1,0 +1,13 @@
+C:\temp\Csharp\Decorator\Project-Pizza\bin\Debug\netcoreapp3.1\Project-Pizza.exe
+C:\temp\Csharp\Decorator\Project-Pizza\bin\Debug\netcoreapp3.1\Project-Pizza.deps.json
+C:\temp\Csharp\Decorator\Project-Pizza\bin\Debug\netcoreapp3.1\Project-Pizza.runtimeconfig.json
+C:\temp\Csharp\Decorator\Project-Pizza\bin\Debug\netcoreapp3.1\Project-Pizza.runtimeconfig.dev.json
+C:\temp\Csharp\Decorator\Project-Pizza\bin\Debug\netcoreapp3.1\Project-Pizza.dll
+C:\temp\Csharp\Decorator\Project-Pizza\bin\Debug\netcoreapp3.1\Project-Pizza.pdb
+C:\temp\Csharp\Decorator\Project-Pizza\obj\Debug\netcoreapp3.1\Project-Pizza.csprojAssemblyReference.cache
+C:\temp\Csharp\Decorator\Project-Pizza\obj\Debug\netcoreapp3.1\Project-Pizza.AssemblyInfoInputs.cache
+C:\temp\Csharp\Decorator\Project-Pizza\obj\Debug\netcoreapp3.1\Project-Pizza.AssemblyInfo.cs
+C:\temp\Csharp\Decorator\Project-Pizza\obj\Debug\netcoreapp3.1\Project-Pizza.csproj.CoreCompileInputs.cache
+C:\temp\Csharp\Decorator\Project-Pizza\obj\Debug\netcoreapp3.1\Project-Pizza.dll
+C:\temp\Csharp\Decorator\Project-Pizza\obj\Debug\netcoreapp3.1\Project-Pizza.pdb
+C:\temp\Csharp\Decorator\Project-Pizza\obj\Debug\netcoreapp3.1\Project-Pizza.genruntimeconfig.cache
