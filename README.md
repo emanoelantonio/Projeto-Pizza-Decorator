@@ -10,7 +10,7 @@ O Decorator ou conhecido como **Wrapper** é um padrão de projeto estrutural qu
 
 #### 📑 License :
 
-The license for this project is GPL v3, earn more about the <a href="https://github.com/emanoelantonio/Projeto-Pizza-Decorator/main/LICENSE.md">License</a> here.
+The license for this project is GPL v3, earn more about the <a href="https://github.com/emanoelantonio/Projeto-Pizza-Decorator/main/LICENSE.md">License</a> here.<br />
 <a href="https://github.com/emanoelantonio/Projeto-Pizza-Decorator/main/LICENSE.md">
 <img src="https://img.shields.io/static/v1?label=License&message=GPL&color=1A1818&style=for-the-badge&logo=github"/>
 </a>
